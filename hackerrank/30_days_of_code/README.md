@@ -8,7 +8,7 @@ Contents:
 - [x] Day 04 : [Classes vs Inheritance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) 
 - [x] Day 05 : [Loops](https://www.hackerrank.com/challenges/30-loops/problem)
 - [x] Day 06 : [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)
-- [ ] Day 07 : [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
+- [x] Day 07 : [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
 - [ ] Day 08 : [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
 - [ ] Day 09 : [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)
 - [ ] Day 10 : [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
